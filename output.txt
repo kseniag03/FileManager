@@ -1,0 +1,27 @@
+Нет доступа к C:\$Recycle.Bin\S-1-5-18
+Нет доступа к C:\$Recycle.Bin\S-1-5-21-3022537043-2480910501-70234052-500
+version.txt
+Нет доступа к C:\Documents and Settings
+Нет доступа к C:\Program Files\WindowsApps
+Нет доступа к C:\ProgramData\Application Data
+Нет доступа к C:\ProgramData\Info
+Нет доступа к C:\ProgramData\Packages
+Нет доступа к C:\ProgramData\WindowsHolographicDevices
+Нет доступа к C:\ProgramData\главное меню
+Нет доступа к C:\ProgramData\Документы
+Нет доступа к C:\ProgramData\Рабочий стол
+Нет доступа к C:\ProgramData\Шаблоны
+Нет доступа к C:\Recovery\Logs
+Нет доступа к C:\System Volume Information
+Нет доступа к C:\Users\Default User
+Нет доступа к C:\Windows\InfusedApps
+Нет доступа к C:\Windows\LiveKernelReports
+Нет доступа к C:\Windows\Minidump
+Нет доступа к C:\Windows\ModemLogs
+Нет доступа к C:\Windows\Prefetch
+Нет доступа к C:\Windows\ServiceState
+Нет доступа к C:\Windows\Temp
+CSUP.txt
+MC14_Help_IS_Log.txt
+MC14_IS_LOG.txt
+MC14_RC_IS_Log.txt

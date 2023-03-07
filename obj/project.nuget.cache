@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjpF9y4p9w/x6PXPC8Z87i3mer4SOyCM2W02gQ5+BVpdIaXnPLLdunk1dFr+B8LA4NNwu6DhPal8fU8a0ws/jA==",
+  "success": true,
+  "projectFilePath": "D:\\Учебные материалы\\#Универ\\1-й курс\\Прога\\Peergrade\\Задание 3. Файловый менеджер\\FileManager\\FileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ksenia2018\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

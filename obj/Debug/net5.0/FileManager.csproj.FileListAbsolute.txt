@@ -1,0 +1,16 @@
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.exe
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.deps.json
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.dll
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\bin\Debug\net5.0\FileManager.pdb
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.dll
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.pdb
+D:\Учебные материалы\#Универ\Прога\Peergrade\Задание 3. Файловый менеджер\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
